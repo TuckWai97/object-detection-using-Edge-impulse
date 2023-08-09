@@ -1,5 +1,5 @@
 # object-detection-using-Edge-impulse
-- Using ESP32-CAM (Ai Thinker) and AI on edge (credits go to [DroneBot Workshop](https://dronebotworkshop.com/esp32-object-detect/) and EloquentArduino) to identify different mouse from Logitech.
+- Using ESP32-CAM (Ai Thinker) and AI on edge (refer to [DroneBot Workshop](https://dronebotworkshop.com/esp32-object-detect/) and EloquentArduino library) to identify different mouse from Logitech.
 - There are 2 optical mouse to identify from the dataset, which are K850 mouse and M221 mouse respectively.The images are captured using ESP32-CAM from different angles and has total of 449 images. Image is resized into _48px_ height and width, color depth changed to _Grayscale_ .
 
    - K850 mouse
