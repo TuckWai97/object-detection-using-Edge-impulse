@@ -11,6 +11,8 @@
    ![Logitech M221 mouse_1691399153115](https://github.com/TuckWai97/object-detection-using-Edge-impulse/assets/47237045/0a3c730c-ae41-43a8-9d73-c03ec2244b7f)
 
 
+    esp23cam_edgeimpulse.ino is from EloquentArduino library to capture images using Webserver using ESP32-CAM AI Thinker.
+    EdgeImpulse_FOMO_mouse.ino is  
 [Link to clone my public project in Edge impulse](https://studio.edgeimpulse.com/studio/267944/versions)
 
 
