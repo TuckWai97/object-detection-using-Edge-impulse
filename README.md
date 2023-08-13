@@ -17,4 +17,4 @@
     To use it, simply choose _Sketch_ from the top of Arduino IDE and navigate to _Include library_ and go _Add .ZIP Library ..._.
 [Link to clone my public project in Edge impulse](https://studio.edgeimpulse.com/studio/267944/versions)
 
-
+For using the simplier version with Serial Monitor for showing the predictions, use the EdegeImpulse_FOMO_mouse.ino from the folder , it is the code from EloquentArduino that I modified the line to include the AI model from Edge Impulse instead to use it.
